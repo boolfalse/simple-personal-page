@@ -1,7 +1,15 @@
 
 ## Simple Personal Page
 
-#### This is an HTML template for a simple personal page.
+---
+
+#### About:
+
+- This is an HTML template for a simple personal page.
+
+#### Demo:
+
+- [https://boolfalse.github.io/simple-personal-page/](https://boolfalse.github.io/simple-personal-page/)
 
 #### Author:
 
